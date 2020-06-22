@@ -1,5 +1,5 @@
 # QuizCPP
-#Task:
+# Task:
 Create a program that allows you to create quizzes and test knowledge.
 
 Implement the following functionalities:
