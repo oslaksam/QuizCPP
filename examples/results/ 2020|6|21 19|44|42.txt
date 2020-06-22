@@ -1,0 +1,21 @@
+Name of the user: Kobalt
+Date:  2020|6|21 19|43|6
+Name of the quiz: Demo1
+Results: 
+Question.1:  - Wrong
+Question.2:  - Wrong
+Question.3:  - Wrong
+Question.4:  - Wrong
+Question.5:  - Wrong
+Question.6:  - Wrong
+Question.7:  - OK
+Question.8:  - Empty = Irrelevant
+Question.9:  - Wrong
+Question.10:  - Empty = Irrelevant
+Question.11:  - Wrong
+Question.12:  - Wrong
+Question.13:  - Empty = Irrelevant
+Question.14:  - Empty = Irrelevant
+Question.15:  - Wrong
+Success rate: 8.333333/100
+<------------------------>

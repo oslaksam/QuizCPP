@@ -1,0 +1,21 @@
+Name of the user: Player1
+Date:  2020|6|19 20|49|53
+Name of the quiz: Demo1
+Results: 
+Question.1:  - OK
+Question.2:  - OK
+Question.3:  - OK
+Question.4:  - OK
+Question.5:  - OK
+Question.6:  - OK
+Question.7:  - OK
+Question.8:  - OK
+Question.9:  - OK
+Question.10:  - Empty
+Question.11:  - OK
+Question.12:  - Empty
+Question.13:  - Empty
+Question.14:  - Empty
+Question.15:  - Empty
+Success rate: 100.000000/100
+<------------------------------------------>
