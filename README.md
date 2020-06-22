@@ -1,4 +1,5 @@
 # QuizCPP
+Semestral project for the C++ programming class
 # Task:
 Create a program that allows you to create quizzes and test knowledge.
 
